@@ -1,0 +1,15 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Projeto de testes de ponta a ponta no Mark L",
+  "author": "Francisco Araujo",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "@shelex/cypress-allure-plugin": "^2.40.1",
+    "allure-commandline": "^2.25.0",
+    "cypress": "12.2.0",
+    "http-server": "^14.1.1"
+  }
+}
